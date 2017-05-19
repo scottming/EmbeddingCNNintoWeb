@@ -66,6 +66,10 @@ This command is for Online-learning.
 $ cnn continue_train
 ```
 
+### Refrences
+
+* [Implementing a CNN for Text Classification in TensorFlow – WildML](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/) 
+* [Embedding a Machine Learning Model into a Web Application](http://nbviewer.jupyter.org/github/rasbt/python-machine-learning-book/blob/master/code/ch09/ch09.ipynb)
 
 
 
